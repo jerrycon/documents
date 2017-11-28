@@ -8,4 +8,4 @@ Now that we're in a markdown file, editing becomes available. This line should s
 
 Now I want to do a deletion, but I need something to delete. Here we go...
 
-Delete me!!!
+
