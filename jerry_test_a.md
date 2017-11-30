@@ -1,3 +1,5 @@
+20171130 - Just making changes for purposes of looking at them in history. Noticed today that it's easy to see what changed from previous version to current version, but haven't seen way to compare changes from multiple previous versions ago to current version.
+
 20171128 – Let’s upload this to jerrycon/documents on github to see what happens
 to the previously existing, identically named document.
 
